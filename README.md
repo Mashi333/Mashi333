@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Uththara Maheshi</h1>
 <h3 align="center"><b>A frontend developer</b></h3><br>
 
-<center>- 🌱 I’m currently learning **html, css, javaScript**</center>
-<br>
-<center>- 📫 How to reach me **karunarathnauththara186@gmail.com**</center>
+ -🌱 I’m currently learning **html, css, javaScript**
+
+- 📫 How to reach me **karunarathnauththara186@gmail.com**
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
