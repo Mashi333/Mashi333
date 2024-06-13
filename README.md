@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uththara Maheshi</h1>
 <h3 align="center">A frontend developer</h3>
 
-- 🌱 I’m currently learning **html, css,javaScript**
+- 🌱 I’m currently learning **html, css, javaScript**
 
 - 📫 How to reach me **karunarathnauththara186@gmail.com**
 
