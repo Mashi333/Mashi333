@@ -2,7 +2,7 @@
 <h3 align="center"><b>A frontend developer</b></h3><br>
 
 <center>- 🌱 I’m currently learning **html, css, javaScript**</center>
-
+<br>
 <center>- 📫 How to reach me **karunarathnauththara186@gmail.com**</center>
 <br>
 <h3 align="center">Connect with me:</h3>
